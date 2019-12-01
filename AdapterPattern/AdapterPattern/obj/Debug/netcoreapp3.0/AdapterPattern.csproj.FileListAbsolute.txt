@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.exe
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\AdapterPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.pdb
